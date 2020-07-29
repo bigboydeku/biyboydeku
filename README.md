@@ -1,5 +1,5 @@
 # Denis Nadarevic - @bigboydeku 🎉
-Hi 👋, I'm Denis -- A recent University of Windsor graduate with a passion for developing useful applications. Whether it's a full stack project or a silly application, every repo is a new challenge. My wonderful team and I lead Windsor's first online mobility hackathon, WinHacks, and are currently working on a cross-border hackathon to inspire tech talent in our communities. I am a huge K-pop fan and an avid gamer (League and Valorant!).
+Hi 👋, I'm Denis -- A recent University of Windsor graduate with a passion for developing useful applications. Whether it's a full stack project or a silly application, every repo is a new challenge. My wonderful team and I led Windsor's first online mobility hackathon, WinHacks, and are currently working on a cross-border hackathon to inspire tech talent in our communities. I am a huge K-pop fan and an avid gamer (League and Valorant!).
 
 ## Values/Outlook
 🤝 Trustworthy and willing to get the job done<br>
