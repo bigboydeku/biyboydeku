@@ -8,7 +8,7 @@ Hi 👋, I'm Denis -- A recent University of Windsor graduate with a passion for
 >🎉 Enjoying life and having fun <br>
   
  ## How I work
- I'm a simple man; give me an idea and freedom to approach it anyway and I can take on any challenge. I am obsessed with being organized to the point where its scary! Oh, and money is a big motivator for me! 🤑
+ I'm a simple man; give me an idea and freedom to approach it any way and I can take on any challenge. I am obsessed with being organized to the point where its scary! Oh, and money is a big motivator for me! 🤑
  
  ## Get in touch
  >* Twitter: https://twitter.com/nadarevd
