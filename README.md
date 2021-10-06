@@ -1,16 +1,12 @@
 # Denis Nadarevic - @bigboydeku 🎉
-Hi 👋, I'm Denis — A recent University of Windsor graduate with a passion for developing useful applications. Whether it's a full stack project or a silly application, every repo is a new challenge. My wonderful team and I led Windsor's first online mobility hackathon, WinHacks, and are currently working on a cross-border hackathon to inspire tech talent in our communities. I am a fan of korean pop and I'm also an avid gamer 8) 
+Hi 👋, I'm Denis — A recent University of Windsor graduate with a passion for web development! I'm currently a developer @ Loadly and I freelance my time for community building. You might know me from the many hackathons that I helped lead and worked on, including WinHacks 2020/2021 and BorderHacks 2020/2021! 
 
 ## Values/Outlook
 🤝 Trustworthy and willing to get the job done<br>
 ✏️ Motivated to learn anything <br>
 😊 Easy to get along with <br>
 🎉 Enjoying life and having fun <br>
-  
- ## How I work
- I'm a simple man; give me an idea and freedom to approach it any way and I can take on any challenge. I am obsessed with being organized to the point where its scary! Oh, and money is a big motivator for me! 🤑
- 
+
  ## Get in touch
- * Twitter: https://twitter.com/nadarevd
- * Personal site: http://nadarevic.codes/
+ * Personal site: http://nadarevic.codes/ 
  * LinkedIn: https://www.linkedin.com/in/nadarevd
